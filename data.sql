@@ -1,0 +1,6 @@
+-- DATA FILE PLACEHOLDER
+-- This file is generated with 500 Kaggle employee records plus clearly labelled
+-- synthetic recruitment demonstration records.
+-- 1) Place WA_Fn-UseC_-HR-Employee-Attrition.csv in ../data/
+-- 2) Run: py run_project.py
+-- The generator replaces this placeholder with executable INSERT statements.
